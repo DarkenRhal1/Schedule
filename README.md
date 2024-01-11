@@ -1,4 +1,4 @@
-<!doctype html>
+
 <html lang="en">
 <body>
 <h4>Schedule</h4>
