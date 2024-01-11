@@ -1,7 +1,7 @@
 
 <html lang="en">
 <body>
-<h4>Schedule</h4>
+<h4> Two Weeks Schedule</h4>
 <p>
 Friday, Jan/12 -- Angular: Getting Started/ Connecting front and backend assignment
 <br>
